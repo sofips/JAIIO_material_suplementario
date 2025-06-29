@@ -10,7 +10,7 @@ Este repositorio resume los resultados y gráficos presentados en el artículo *
 
 ### Algoritmos genéticos vs DRL
 
-El primer gráfico presentado muestra las fidelidades máximas y medias logradas con ambos métodos para distintos largos de cadenas de qubits. Los directorios con los resultados crudos se incluyen en este repositorio en sus respectivos directorios `drl_preliminary_results` y `ga_preliminary_results` y los códigos necesarios para generarlos pueden encontrarse [aquí](https://github.com/sofips/dynamic_control_for_QST/blob/JAIIO_material_suplementario/JAIIO_graphs.ipynb).
+El primer gráfico presentado muestra las fidelidades máximas y medias logradas con ambos métodos para distintos largos de cadenas de qubits. Los directorios con los resultados crudos se incluyen en este repositorio en sus respectivos directorios `drl_preliminary_results` y `ga_preliminary_results` y los códigos necesarios para generar las visualizaciones pueden encontrarse [aquí](https://github.com/sofips/dynamic_control_for_QST/blob/JAIIO_material_suplementario/JAIIO_graphs.ipynb).
 
 ### Extracción de datos de fidelidad 
 
@@ -21,7 +21,7 @@ Se recuperan los 10 valores más altos de fidelidad obtenidos durante el entrena
 
 #### Para GA: 
 
-Se realizaron pruebas para distintas longitudes dentro del directorio principal, se encuentran los directorios de las distintas pruebas (con distintos parámetros de algoritmo). A su vez, dentro de cada uno de ellos se halla un archivo de resumen del que extraemos las fidelidades máximas obtenidas y los directorios con las secuencias de acciones para cada longitud de cadena.
+Se realizaron pruebas para distintas longitudes. Dentro del directorio principal, se encuentran los directorios de las distintas pruebas (con distintos parámetros de algoritmo). A su vez, dentro de cada uno de ellos se halla un archivo de resumen del que extraemos las fidelidades máximas obtenidas y los directorios con las secuencias de acciones para cada longitud de cadena.
 
 <img src="figures/Fig1.png" alt="alt text" width="1200"/>
 
