@@ -37,8 +37,8 @@ Una descripción más detallada de los parámetros se encuentra en el [apéndice
 
 La función fitness utilizada se inspira en el algoritmo de DRL pero, en lugar de implementarse secuencialmente, se hace sobre la secuencia completa de acciones.   
 
-<img src="fitness.png" alt="alt text" width="200"/>
+<img src="Figures/fitness.png" alt="alt text" width="200"/>
 
 donde
 
-<img src="zhang_reward2.png" alt="alt text" width="500"/>
+<img src="Figures/zhang_reward.png" alt="alt text" width="500"/>
