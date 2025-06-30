@@ -6,7 +6,7 @@ Sofía Perón Santana
 
 --- 
 
-Este repositorio resume los resultados y gráficos presentados en el artículo *Optimización de la Transmisión de Estados Cuánticos en Cadenas de Qubits usando Deep Reinforcement Learning y Algoritmos Genéticos* presentado en la 54 JAIIO. En el mismo se comparan los dos enfoques mencionados y se cuantifica su desempeño para la optimización de transmisiones de estados cuánticos en cadenas de qubits. 
+Este repositorio contiene los resultados y gráficos presentados en el artículo *Optimización de la Transmisión de Estados Cuánticos en Cadenas de Qubits usando Deep Reinforcement Learning y Algoritmos Genéticos* presentado en la 54 JAIIO. Además incluye información sobre la eficiencia numérica de los algoritmos y la posibilidad de incluir distintos tipos de acciones para controlar la evolución de la cadena de espines.
 
 ### Algoritmos genéticos vs DRL
 
